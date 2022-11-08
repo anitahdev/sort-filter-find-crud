@@ -1,0 +1,3 @@
+fastapi==0.79.0
+SQLAlchemy
+uvicorn
